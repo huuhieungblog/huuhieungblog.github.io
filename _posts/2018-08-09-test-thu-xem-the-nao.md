@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 title: test thu xem the nao
 ---
 ## A New Post
