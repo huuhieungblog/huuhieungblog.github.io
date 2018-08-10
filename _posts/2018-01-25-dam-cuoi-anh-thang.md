@@ -1,31 +1,13 @@
 ---
 layout: post
-title: Tạm biệt Hà Nội!
-bigimg: /img/hanoi.jpg
+title: Mừng Anh lấy vợ
+bigimg: /img/dam-cuoi-anh-thang-big.jpg
 tags: [hiếu-viết]
 ---
 
-### Thành phố nào đẹp nhất?
-Ơ kìa, tất nhiên là mình éo biết, vì cũng chưa được đi nhiều, mà hơn nữa cũng chẳng có con mắt tinh tường để mà nhận xét.<br>
-
-Nhưng mà có mấy câu trên mạng người ta hay viết, đại loại như. 
-<blockquote>
-“Đôi khi ta yêu một thành phố không bởi vì nó đẹp mà ở đó có ai” 
-    <p style="text-align: right;">- không biết tên -</p>
-</blockquote>
-
-
-Cũng đúng, Hà Nội ngày xưa có Vợ mình, Hà Nội có anh em họ hàng, Hà Nội có những đứa bạn trời đánh thân nhau từ thủa lần đầu xem sex, Hà Nội có những anh em dù khác quê nhưng vẫn thân thiết, Hà Nội có những đồng nghiệp dù thời gian làm cùng nhau chưa nhiều nhưng rất quý. Hà Nội còn có quán net to, Hà Nội còn có quán bia vỉa hè, Hà Nội còn có tiệm cầm đồ, ... nói chung là Hà Nội có nhiều vl những thứ hay ho.
-<br>
-Con người ấy mà, cứ gần nhau lâu ắt có tình cảm. Hà Nội cũng như 1 người tình không bao giờ xếp hình vậy, ở lâu thành quen nên sinh ra yêu luôn.
-
-Yêu luôn cả tiếng leng keng xe rác ngõ 192 Lê Trọng Tấn lúc mới chập chững lên thành phố. Vì hồi ấy lười lắm, chỉ có mỗi nhiệm vụ đổ rác. Nên cả ngày chờ mỗi tiếng kẻng rác như các lô thủ chờ tới 6 rưỡi vậy.
-
-Yêu luôn cả cảnh ở trọ, ngủ dậy mà nước ngập lên tận mép giường. Rồi mấy đứa lại cong mông lên tát nước, lau nhà, để hôm sau lại lóc cóc đi tìm nhà trọ mới.....
-
-Còn yêu nhiều lắm, nhưng yêu nhất là căn nhà nhỏ xinh 2 vợ chồng cùng trải qua vô vàn kỉ niệm.
-Vẫn câu nói ban đầu “Đôi khi ta yêu một thành phố không bởi vì nó đẹp mà ở đó có ai”. Hà Nội giờ vẫn yêu, nhưng tình yêu gia đình còn lớn hơn. 
-Nên là...ahihiii
-<br>
-**Hà Nội ơi, tạm biệt!**
+### "Alo, Hiếu đâyyyyy..."
+Đó là thông điệp đầu tiên mình nói qua điện thoại, năm lớp 2 hay 3 gì ấy, không phải Nokia hay Motorola. Chiếc điện thoại thương hiệu Halida nối dây đồng tháo ra từ moto đồ chơi kéo từ cửa sổ nhà này qua nhà kia, cỡ 10m và chuông điện thoại là tiếng leng keng của ống lon khi va vào thanh chắn cửa sổ. Nhiều khi kéo mạnh quá đứt cả dây và thế là đứt liên lạc, phải đổi qua thành tiếng huýt sáo làm ám hiệu mỗi buổi trưa trốn đi chơi game. Kiểu kiểu như "con sang nhà anh Thắng ngủ", bên kia "con sang nhà thằng Hiếu ngủ", thế là có một buổi trưa tự do. Cỡ rambo lùn một ngày phá đảo 2 lần ở quán hương cúc thì quá là điều bình thường luôn <br>
+Đêm giao thừa nào cũng phải chúc nhau 1 lon coca qua hàng rào, rồi 2 anh em lại đốt một đống lửa ở đường cạnh hai nhà ngồi chơi. Thế mà bẵng đi nhiều năm không giữ thói quen ấy nữa, phần vì lớn rồi không chúc coca, phần vì hàng rào mỗi lần xây lại lại cao hơn 1 tí, mà chiều cao vật lý cơ thể chẳng tăng lên nữa nên với không tới, còn nhiều lắm lắm, những buổi chiều đi câu chuồn chuồn, những buổi trưa đi câu trộm cá ở ao trường dân chính, ... vân vân và mây mây, nhớ hết nhưng kể không hết. <br>
+Nhanh thật ấy! Thế mà giờ lái đã có thuyền, anh đã là chồng người ta rồi. Cứ tưởng lỗ đít nở hoa, chứ hoá ra vẫn yêu con gái thế là quý hoá quá rồi<br>
+**Chúc 2 vợ chồng luôn hạnh phúc, sớm sinh em bé để Cua có bạn mà nối lại kênh thông tin liên lạc ngày xưa của mình.**
 
