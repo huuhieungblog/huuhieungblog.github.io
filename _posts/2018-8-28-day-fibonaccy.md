@@ -5,7 +5,7 @@ tags: [toán-học]
 ---
 
 <p>
-Fibonacci ( 1170-1240), tên đầy đủ của ông là Leonardo Pisano, được biết đến như một nhà toán học vĩ đại nhất của <a href="/chau-au.htm">châu Âu</a> thời trung cổ. Ông được sinh ra và lớn lên ở vùng bắc phi. Từ nhỏ đã theo cha đi khắp các vùng xung quanh bờ biển địa trung hải. Trong những chuyến đi của mình, ông có cơ hội gặp nhiều thương nhân và học kiến thức số học của họ. Ông là một trong những người đầu tiên truyền bá hệ thống số Ả Rập vào <a href="/kham-pha/nhung-dieu-thu-vi-ve-cac-toa-lau-dai-co-o-chau-au-20130507111922445.chn">châu Âu</a> -hệ thống số của chúng ta hiện đang sử dụng ngày nay dựa trên số mười chữ số với dấu thập phân và một biểu tượng đặc biệt (“số không”): 1 2 3 4 5 6 7 8 9 và 0.</p>
+Fibonacci ( 1170-1240), tên đầy đủ của ông là Leonardo Pisano, được biết đến như một nhà toán học vĩ đại nhất của châu Âu thời trung cổ. Ông được sinh ra và lớn lên ở vùng bắc phi. Từ nhỏ đã theo cha đi khắp các vùng xung quanh bờ biển địa trung hải. Trong những chuyến đi của mình, ông có cơ hội gặp nhiều thương nhân và học kiến thức số học của họ. Ông là một trong những người đầu tiên truyền bá hệ thống số Ả Rập vào châu Âu -hệ thống số của chúng ta hiện đang sử dụng ngày nay dựa trên số mười chữ số với dấu thập phân và một biểu tượng đặc biệt (“số không”): 1 2 3 4 5 6 7 8 9 và 0.</p>
 <div class="VCSortableInPreviewMode" style="text-align:center" type="Photo">
 <div>
 <img alt="Bí ẩn dẫy số Fibonacci và sự trùng hợp kinh ngạc trong tự nhiên" id="img_6302" photoid="6302" rel="http://genknews.genkcdn.vn/2013/1-d6396.jpg" src="http://genknews.genkcdn.vn/2013/1-d6396.jpg" title="" type="photo" /></div>
@@ -17,7 +17,7 @@ Hiện nay, vẫn còn một bức tượng tưởng niệm ông nằm ở Leani
 <p>
 <strong>Dãy số Fibonacci</strong></p>
 <p>
-Dãy Fibonacci là dãy vô hạn các số <a href="/tu-nhien.htm">tự nhiên</a> bắt đầu bằng hai phần tử 0 và 1, các phần tử sau đó được thiết lập theo quy tắc mỗi phần tử luôn bằng tổng hai phần tử trước nó. Công thức truy hồi của dãy Fibonacci là:</p>
+Dãy Fibonacci là dãy vô hạn các số tự nhiên bắt đầu bằng hai phần tử 0 và 1, các phần tử sau đó được thiết lập theo quy tắc mỗi phần tử luôn bằng tổng hai phần tử trước nó. Công thức truy hồi của dãy Fibonacci là:</p>
 <div class="VCSortableInPreviewMode" style="text-align:center" type="Photo">
 <div>
 <img alt="Bí ẩn dẫy số Fibonacci và sự trùng hợp kinh ngạc trong tự nhiên" id="img_6303" photoid="6303" rel="http://genknews.genkcdn.vn/2013/2-8a106.png" src="http://genknews.genkcdn.vn/2013/2-8a106.png" title="" type="photo" /></div>
@@ -29,7 +29,7 @@ Dãy số Fibonacci là dãy số kinh điển làm nên tên tuổi của nhà 
 <p>
 Điều đáng nói ở đây là dãy số Fibonacci xảy ra rất thường xuyên trong tự nhiên. Cũng như tỉ lệ vàng, nó như một quy luật tuyệt vời của tạo hóa.</p>
 <p>
-<strong>Dãy số Fibonacci - Quy luật <a href="/kham-pha/tim-hieu-ve-su-hinh-thanh-hoa-thach-trong-tu-nhien-phan-1-20130606164342204.chn">tự nhiên</a></strong></p>
+<strong>Dãy số Fibonacci - Quy luật tự nhiên</strong></p>
 <p>
 Trong vô vàn các dãy số, không phải ngẫu nhiên mà dãy số này lại nổi tiếng đến vậy. Nói đến đây có lẽ nhiều người còn ngờ vực. Có lẽ, sau khi cùng lướt qua những điều dưới đây, mọi thắc mắc sẽ được giải đáp.</p>
 <p>
